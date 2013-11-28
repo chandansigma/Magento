@@ -1,0 +1,7 @@
+includes/src
+includes/stat
+var
+media
+pkginfo
+app/etc/local.xml
+.htaccess
